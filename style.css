@@ -70,3 +70,7 @@ footer{
     margin:0px;
     text-align: center;
 }
+
+.recipes a:hover{
+  color: red;
+}
